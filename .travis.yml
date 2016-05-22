@@ -3,7 +3,8 @@ language: c
 branches:
   only:
     - master
-
+    - release_and_ci
+    
 sudo: required
 
 addons:
